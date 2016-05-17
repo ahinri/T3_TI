@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/ahinri/Desktop/UC/2016/I/Taller%20Integracion/Tareas/T3/globalweather.asmx" uri="src/conf/xml-resources/web-services/webservice_wsdl_prueba/wsdl/globalweather.asmx.wsdl"/>
+    <system systemId="file:/C:/Users/ahinri/Desktop/UC/2016/I/Taller%20Integracion/Tareas/T3/airport.asmx" uri="src/conf/xml-resources/web-services/Aeropuerto/wsdl/airport.asmx.wsdl"/>
+</catalog>
